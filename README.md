@@ -7,15 +7,8 @@ Este es el segundo proyecto de 525490 (2016-II).
 * Fecha de entrega: 06/dic/2016 23:59:59 CLST
 * Modo de entrega: Informe (LaTeX) y códigos computacionales mediante un *pull request* a este repositorio.
 * Como ahora hay un solo alumno, no es necesario poner archivos en subdirectorio nombrado con apellido.
-* Por favor, subir solamente los archivos fuente del informe y los códigos (.tex, .bib, .c, .f90, PDF con imágenes usadas en el informe, datos de entrada, etc.) y no las salidas (PDF de salida, .aux, .log, .o, etc.).
-* Lenguajes de programación admisibles:
-    + C/C++
-    + Fortran
-    + Julia
-    + Octave (similar a Matlab)
-    + Python
-    + Scilab (similar a Matlab)
-    + Algún otro solamente bajo previa aprobación del profesor
+* Por favor, subir solamente archivos de datos originales y códigos fuentes y no salidas o archivos intermedios.
+* Lenguajes de programación admisibles: C/C++, Fortran, Julia, Octave, Python, Scilab. Algún otro solamente bajo previa aprobación del profesor
 
 ## Descripción del problema
 
