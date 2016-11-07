@@ -12,7 +12,7 @@ Este es el segundo proyecto de 525490 (2016-II).
 
 ## Descripción del problema
 
-Construya con *cartograma* (inglés: *cartogram*) de Chile usando el método del artículo:
+Construya un *cartograma* (inglés: *cartogram*) de Chile usando el método del artículo:
 
 M. T. Gastner & M. E. J. Newman, *Diffusion-based method for producing density-equalizing maps*, PNAS **101**(20):7499–7504, 2004, doi:[10.1073/pnas.0400280101](https://dx.doi.org/10.1073/pnas.0400280101).
 
